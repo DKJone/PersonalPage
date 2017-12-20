@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/DKJone/PersonalPage/blob/master/WeChat-test.ipa</string>
+					<string>https://raw.githubusercontent.com/DKJone/PersonalPage/master/WeChat-test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/DKJone/PersonalPage/blob/master/57x57.png</string>
+					<string>https://raw.githubusercontent.com/DKJone/PersonalPage/master/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/DKJone/PersonalPage/blob/master/512x512.png</string>
+					<string>https://raw.githubusercontent.com/DKJone/PersonalPage/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.jsti.mms</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>6.5.23.32</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>happyNewYear</string>
+				<string>CloudJSTI</string>
 			</dict>
 		</dict>
 	</array>
